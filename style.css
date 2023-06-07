@@ -4,3 +4,11 @@ body{
 h1{
     font-size: 50px;
 }
+#name{
+    color:darkgoldenrod;
+}
+.container{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:20px;
+}
