@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .header-style{
     color:orange;
 }
@@ -26,4 +29,13 @@ h1{
     padding: 10px 20px;
     border-radius: 5px;
     color:white;
+}
+.experience-item{
+    width:40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    background-color: #f2f2f2;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
 }
