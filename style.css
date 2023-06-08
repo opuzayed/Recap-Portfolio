@@ -39,9 +39,12 @@ h2{
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.4);
     border-radius: 10px;
 }
-.fullstack-border-color{
+#fullstack-border-color{
     border-left: 5px solid #ff0000;
 }
-.baby-border-color{
+#baby-border-color{
     border-left: 5px solid blue;
+}
+#footer-style{
+    text-align: center;
 }
